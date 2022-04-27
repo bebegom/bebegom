@@ -10,6 +10,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bebegom&show_icons=true&theme=omni)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bebegom&theme=omni)
 
+Checkout my LinkedIn
+<a href="https://www.linkedin.com/in/elin-ahlgren-9b6070223/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn logo"></a>
+
 
 <!--
 - 💬 Ask me about ... Anything!
