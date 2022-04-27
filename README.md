@@ -9,15 +9,13 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bebegom&show_icons=true&theme=omni)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bebegom&theme=omni)
+  
+<a href="https://www.linkedin.com/in/elin-ahlgren-9b6070223/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" height="30" style="vertical-align:bottom; margin:4px" alt="LinkedIn logo">
+  Checkout my LinkedIn
+</a>
+  
 
-<h2>
-  
-  <a href="https://www.linkedin.com/in/elin-ahlgren-9b6070223/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" height="30" style="vertical-align:bottom; margin:4px" alt="LinkedIn logo">
-    Checkout my LinkedIn
-  </a>
-  
-</h2>
 
 
 <!--
