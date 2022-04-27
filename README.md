@@ -11,10 +11,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bebegom&theme=omni)
   
 <a href="https://www.linkedin.com/in/elin-ahlgren-9b6070223/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" height="40" alt="LinkedIn logo">
-  Checkout my LinkedIn
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" height="30" alt="LinkedIn logo">
+
 </a>
-  
+  Checkout my LinkedIn  
 
 
 
