@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with finding an internship for this october
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bebegom&show_icons=true&theme=omni)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bebegom&theme=omni)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bebegom&theme=gruvbox)
   
 <h2>Checkout my LinkedIn</h2>
 <a href="https://www.linkedin.com/in/elin-ahlgren-9b6070223/" target="_blank">
