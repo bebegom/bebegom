@@ -12,12 +12,13 @@
   
 <h2>Checkout my LinkedIn</h2>
 <a href="https://www.linkedin.com/in/elin-ahlgren-9b6070223/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" height="30" alt="LinkedIn logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="30" alt="LinkedIn logo">
 </a>
 
 
 
 <h3>Languages and Tools I have used:</h3>
+<img src="" height alt="">
 
 
 
