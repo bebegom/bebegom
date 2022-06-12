@@ -19,6 +19,7 @@
 
 <h2>Languages and Tools I have used:</h2>
 <p>
+  <img width="32" title="Visual Studio Code" alt="VSC" src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png">
   <img width="32" title="HTML5" alt="HTML5" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png">
   <img width="32" title="CSS" alt="CSS3" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png">
   <img width="32" title="JavaScript" alt="JavaScript" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png">
