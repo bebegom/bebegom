@@ -18,7 +18,7 @@
 
 
 <h3>Languages and Tools I have used:</h3>
-<img src="" height alt="">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/HTML5_Shiny_Icon.svg" width="30" alt="HTML5">
 
 
 
