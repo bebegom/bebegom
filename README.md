@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning React.js
 - 🤔 I’m looking for help with finding an internship for this october
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bebegom&show_icons=true&theme=omni)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bebegom&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bebegom&theme=gruvbox)
   
 <h2>Checkout my LinkedIn</h2>
