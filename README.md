@@ -19,28 +19,15 @@
 
 <h3>Languages and Tools I have used:</h3>
 
-<a title="W3C, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:HTML5_Badge.svg">    <img width="32" alt="HTML5 Badge" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/32px-HTML5_Badge.svg.png">
-</a>
-
-<a title="daPhyre (File:CSS3 and HTML5 logos and wordmarks.svg)
-Elfi (File:CSS3 logo and wordmark.svg)
-ExE Boss, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CSS3_logo.svg">
-  <img width="32" alt="CSS3 logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/32px-CSS3_logo.svg.png">
-</a>
-
-<a title="Chris Williams, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg">
-  <img width="32" alt="Unofficial JavaScript logo 2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/32px-Unofficial_JavaScript_logo_2.svg.png">
-</a>
-
-<a title="node.js authors, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg">
-  <img width="32" alt="Node.js logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/32px-Node.js_logo.svg.png">
-</a>
-
-<a title="Facebook, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:React-icon.svg">
-  <img width="32" alt="React-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/32px-React-icon.svg.png">
-</a>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/HTML5_Shiny_Icon.svg" width="30" alt="SASS/SCSS">
+<img width="32" alt="HTML5" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png">
+<img width="32" alt="CSS3" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png">
+<img width="32" alt="JavaScript" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png">
+<img width="32" alt="Node.js" src="https://seeklogo.com/images/N/node-node-js-logo-81A4CC16D2-seeklogo.com.png">
+<img width="32" alt="React.js" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png">
+<img width="32" alt="SASS/SCSS" src="https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png">
+<img width="32" alt="Figma" src="https://seeklogo.com/images/F/figma-logo-6F8EFD765C-seeklogo.com.png">
+<img width="32" alt="Adobe Illustrator" src="https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png">
+<img width="32" alt="Adobe XD" src="https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png">
 
 
 
