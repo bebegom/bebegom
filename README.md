@@ -17,7 +17,7 @@
 
 
 
-<h3>Languages and Tools I have used:</h3>
+<h2>Languages and Tools I have used:</h2>
 <p>
   <img width="32" title="HTML5" alt="HTML5" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png">
   <img width="32" title="CSS" alt="CSS3" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png">
