@@ -26,7 +26,11 @@
   <img width="32" title="Express" alt="Express" src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png">
   <img width="32" title="Adobe XD" alt="Adobe XD" src="https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png">
   <img width="32" title="Adobe Illustrator" alt="Adobe Illustrator" src="https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png">
+  <img width="32" title="Photoshop" alt="Photoshop" src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png">
   <img width="32" title="Figma" alt="Figma" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png">
+  <img width="32" title="Netlify" alt="Netlify" src="https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png">
+  <img width="32" title="Heroku" alt="Heroku" src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png">
+  <img width="32" title="Postman" alt="Postman" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
   <img width="32" title="Socket.io" alt="Socket.io" src="https://seeklogo.com/images/S/socketio-logo-B8A7F486CD-seeklogo.com.png">
   <img width="32" title="React.js" alt="React.js" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png">
   <img width="32" title="Sass/SCSS" alt="SASS/SCSS" src="https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png">
