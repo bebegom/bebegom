@@ -23,6 +23,7 @@
   <img width="32" title="HTML5" alt="HTML5" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png">
   <img width="32" title="CSS" alt="CSS3" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png">
   <img width="32" title="JavaScript" alt="JavaScript" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png">
+  <img width="32" title="Bootstrap" alt="Bootstrap" src="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png">
   <img width="32" title="Node.js" alt="Node.js" src="https://seeklogo.com/images/N/node-node-js-logo-81A4CC16D2-seeklogo.com.png">
   <img width="32" title="Express" alt="Express" src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png">
   <img width="32" title="Adobe XD" alt="Adobe XD" src="https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png">
