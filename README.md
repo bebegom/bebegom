@@ -35,7 +35,7 @@
   <img width="32" title="Socket.io" alt="Socket.io" src="https://seeklogo.com/images/S/socketio-logo-B8A7F486CD-seeklogo.com.png">
   <img width="32" title="React.js" alt="React.js" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png">
   <img width="32" title="Sass/SCSS" alt="SASS/SCSS" src="https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png">
-  <img width="32" title="Firebase" alt="Firebase" src="<img width="32" title="Sass/SCSS" alt="SASS/SCSS" src="https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png">">
+  <img width="32" title="Firebase" alt="Firebase" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png">
 </p>
 
 
