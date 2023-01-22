@@ -4,7 +4,7 @@
 
 - 😄 Pronouns: she/her
 - 🔭 I’m currently studying Front End Developer at Medieinstitutet in Malmö
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Flutter
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bebegom&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bebegom&theme=gruvbox)
